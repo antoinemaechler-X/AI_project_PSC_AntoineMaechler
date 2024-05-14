@@ -1,4 +1,4 @@
-Ce projet, mené sous la tutelle de Clément Malgouyres (économiste au CREST) a pour objectif d'utiliser le Machine Learning pour optimiser la taxation carbone appliquée aux véhicules en France.
+Ce projet a pour objectif d'utiliser le Machine Learning pour optimiser la taxation carbone appliquée aux véhicules en France.
 
 Il s'articule en 2 parties :
 
